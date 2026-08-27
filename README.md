@@ -21,3 +21,7 @@ Danach ist die Anwendung im Browser unter der Adresse erreichbar, die im Termina
 ```text
 http://localhost:5173/
 ```
+
+## Frühere Projektsände
+
+Frühere Entwicklungsstände der Anwendung befinden sich als ZIP-Dateien im Ordner `Alte Projektstände`.
